@@ -27,9 +27,9 @@ Each model has its strengths and weaknesses, and engineering a real-world applic
     	jupyter notebook landmark.ipynb
     ```
 
-**NOTE:** While some code has already been implemented to get you started, you will need to implement additional functionality to successfully answer all of the questions included in the notebook. **Unless requested, do not modify code that has already been included.**
+> **NOTE:** While some code has already been implemented to get you started, you will need to implement additional functionality to successfully answer all of the questions included in the notebook. **Unless requested, do not modify code that has already been included.**
 
-**NOTE:** In the notebook, you will need to train CNNs in PyTorch. If your CNN is taking too long to train, feel free to pursue one of the options under the section **Accelerating the Training Process** below.
+> **NOTE:** In the notebook, you will need to train CNNs in PyTorch. If your CNN is taking too long to train, feel free to pursue one of the options under the section **Accelerating the Training Process** below.
 
 ## (Optionally) Accelerating the Training Process
 
